@@ -1,4 +1,4 @@
-# face-matching-game
+# Face Matching Game
 
 
 It is a fun game where you have to look for one extra smiling face and as you keep on playing the difficulty level keeps on rising.
